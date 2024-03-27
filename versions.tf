@@ -21,6 +21,8 @@ provider "aws" {
   default_tags {
     tags = {
       "terraform-managed" = "true"
+aws_access_key = "AKIAW3MEFAISYFLCPODQ"
+aws_secret_key = "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"
     }
   }
 }
